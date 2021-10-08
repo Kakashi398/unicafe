@@ -78,7 +78,7 @@ const App =() => {
   
   return(
     <div>
-      <h1>give feedback</h1>
+      <h1>Give Feedback</h1>
       
       
       < Button handleClick={goodClick} text="good" />
